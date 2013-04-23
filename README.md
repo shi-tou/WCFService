@@ -1,4 +1,0 @@
-WCFService
-==========
-
-WCF学习
